@@ -13,7 +13,6 @@ The study examines remote coordination of a heterogeneous robotic fleet during a
 | `acoustic/ping_dropout/plot_op16.py` | Plots the cooperative USV–AUV decision trace (Fig. 5) from recorded, processed mission outputs. |
 | `acoustic/ping_dropout/ping_dropout_reference.py` | Reference calculation of a ping-dropout fraction from generic acoustic `Sv` arrays. |
 | `acoustic/ping_dropout/test_ping_dropout_reference.py` | Unit tests for the reference calculation. |
-| `acoustic/ping_dropout/figures/op16_decision_trace.png` | Decision-trace figure. |
 | `acoustic/ek80_compression/reproduce_compression.py` | Recalculates the two documented acoustic data-size ratios and verifies the reconstructed 208-ping CSV export. |
 
 The accompanying processed dataset is available under Zenodo DOI [10.5281/zenodo.23917413](https://doi.org/10.5281/zenodo.23917413). It contains `ping_dropout_processed_data.zip` and `ek80_compression_data.zip`, together with adaptive AUV observations and a representative EK80 raw recording. The archive README files document the data columns and their provenance.
