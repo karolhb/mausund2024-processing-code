@@ -66,7 +66,7 @@ The script reproduces two separate comparisons: the ratio calculated from rounde
 
 ## Scope of reproducibility
 
-The released scripts reproduce the selected figure and size-accounting results described above. They do not reconstruct the complete acquisition-to-decision workflow from raw sensor data. The original onboard adaptive-controller implementation is not included. The associated acoustic detection demonstration is maintained in the separate repository linked above.
+The released scripts reproduce the selected figure and size-accounting results described above. They do not reconstruct the complete acquisition-to-decision workflow from raw sensor data. Source code associated with the adaptive AUV sampling framework is publicly accessible in the [CALMSEA repository](https://github.com/MASCOT-NTNU/CALMSEA). The associated acoustic detection demonstration is maintained in the separate repository linked above.
 
 ## License
 
